@@ -1,4 +1,5 @@
 # Can Brain Signals Tell Learning Models Apart?
+SEE ANIMATION HERE: http://himanshu-heist.github.io/BrainRLAnimation/
 
 **Decoding reward prediction error (RPE) from EEG with three reinforcement-learning models, two decoders and two datasets.**
 
